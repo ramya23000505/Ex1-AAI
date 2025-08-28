@@ -1,11 +1,12 @@
-<H3> Name </H3>
-<H3>Register No.</H3>
+<H3> Name: RAMYA R </H3>
+<H3>Register No: 212223230169</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE: 28-08-2025</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
+    
 ## Algorithm:
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
 Step 2:Set pandas options to display more columns<br/>
@@ -25,7 +26,11 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 ## Program:
 ''' Type your Code here '''
 ## Output:
-''' Show the output in the form screenshorts '''
+<img width="905" height="770" alt="image" src="https://github.com/user-attachments/assets/4951645e-6636-43fe-9d5b-14e60551260c" />
+<img width="903" height="768" alt="image" src="https://github.com/user-attachments/assets/9c4ada80-2e53-4756-9503-ba94849ae697" />
+<img width="896" height="698" alt="image" src="https://github.com/user-attachments/assets/621562b3-1e65-4585-a339-715ee82e40e9" />
+<img width="1514" height="183" alt="image" src="https://github.com/user-attachments/assets/37cadcf4-78a6-45af-924d-ba5655222fd8" />
+
 ## Result:
    Thus a Bayesian Network is generated using Python
 
